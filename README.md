@@ -1,103 +1,136 @@
-# 👋 Welcome to Phase Alpha
-
 <div align="center">
-  
-### Learn AI by Building Real, Deployed Projects
-  
-[![YouTube](https://img.shields.io/badge/YouTube-Subscribe-red?style=for-the-badge&logo=youtube)](https://youtube.com/@phasealpha29)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram)](https://instagram.com/phasealpha_ai)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0f0f,100:1a1a2e&height=120&section=header" width="100%"/>
+
+<br/>
+
+```
+██████╗ ██╗  ██╗ █████╗ ███████╗███████╗     █████╗ ██╗     ██████╗ ██╗  ██╗ █████╗
+██╔══██╗██║  ██║██╔══██╗██╔════╝██╔════╝    ██╔══██╗██║     ██╔══██╗██║  ██║██╔══██╗
+██████╔╝███████║███████║███████╗█████╗      ███████║██║     ██████╔╝███████║███████║
+██╔═══╝ ██╔══██║██╔══██║╚════██║██╔══╝      ██╔══██║██║     ██╔═══╝ ██╔══██║██╔══██║
+██║     ██║  ██║██║  ██║███████║███████╗    ██║  ██║███████╗██║     ██║  ██║██║  ██║
+╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚══════╝   ╚═╝  ╚═╝╚══════╝╚═╝     ╚═╝  ╚═╝╚═╝  ╚═╝
+```
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=6E6E8A&center=true&vCenter=true&width=600&lines=Building+real+AI+products.+Student+budget.;From+zero+to+deployed.+Every+time.;No+GPU.+No+money.+No+excuses.)](https://git.io/typing-svg)
+
+<br/>
+
+[![YouTube](https://img.shields.io/badge/YouTube-@phasealpha29-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@phasealpha29)
+&nbsp;
+[![Instagram](https://img.shields.io/badge/Instagram-@phasealpha__ai-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phasealpha_ai)
+&nbsp;
+[![Email](https://img.shields.io/badge/Email-sphasealpha@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:sphasealpha@gmail.com)
 
 </div>
 
----
-
-## 🎯 The Problem
-
-Most AI courses teach theory. You watch videos, nod along, maybe run some code.  
-Then what? You still can't build anything real. Your portfolio stays empty. Jobs require "experience."
-
-**The gap between learning AI and doing AI is massive.**
+<br/>
 
 ---
 
-## 💡 The Solution
+<br/>
 
-**Phase Alpha** bridges that gap.
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td width="50%" valign="top">
 
-You don't just learn concepts — you **build production systems**.  
-Every project goes beyond tutorials: data → model → deployment → live URL.
+### `> who_is_phase_alpha`
 
-By the time you finish, you have:
-- ✅ A portfolio of deployed applications
-- ✅ Real production experience  
-- ✅ Industry-ready skills
-- ✅ Projects you can show employers
+I'm a student doing my Masters in AI — building real, deployed AI products with no GPU and a tight budget.
 
----
+Most tutorials stop right before the hard part. Deployment breaks. APIs timeout. Docker fails. Costs spiral.
 
-## 🚀 What You Get
+**Phase Alpha is what comes after the tutorial.**
 
-### Structured Learning Path
-Complete curriculum from fundamentals to advanced topics:  
-**Machine Learning** → **Deep Learning** → **Computer Vision** → **NLP** → **MLOps** → **Production Systems**
+Every project here goes from idea → code → production. Full stack. Live URL. Open source.
 
-### Hands-On Projects
-Every concept backed by a real project you build and deploy:
-- Image classifiers with live demos
-- NLP systems processing real text
-- Full-stack ML applications
-- Production pipelines with CI/CD
+</td>
+<td width="8%"></td>
+<td width="42%" valign="top">
 
-### Production Deployment
-Not "toy projects" — actual deployed systems:
-- Live URLs you can share
-- Industry-standard tech stacks
-- Scalable architectures
-- Portfolio-worthy implementations
+### `> philosophy`
 
-### Complete Transparency
-All code, all notebooks, all resources — free and open source.
+```python
+while learning:
+    build_something_real()
+    deploy_it()
+    document_everything()
+    share_with_others()
+    # repeat
+```
 
----
+> *"The gap between learning AI*
+> *and doing AI is massive.*
+> *This channel closes that gap."*
 
-## 💻 Tech Stack
+</td>
+</tr>
+</table>
 
-**Frameworks**: TensorFlow • PyTorch • Keras • scikit-learn  
-**Deployment**: Docker • Kubernetes • FastAPI • Streamlit • Hugging Face Spaces  
-**MLOps**: CI/CD • Model Monitoring • Version Control  
-**Cloud**: AWS • GCP • Cloud Platforms  
+<br/>
 
 ---
 
-## 📺 Follow the Journey
+<br/>
 
-**YouTube**: Daily concepts, weekly project tutorials  
-**GitHub**: Complete code for every project  
-**Instagram**: Quick tips and updates
+<div align="center">
 
-Subscribe to learn by building, not just watching.
+### `> what_you_will_find_here`
 
-👉 [YouTube Channel](https://youtube.com/@phasealpha29)
+<br/>
+
+<table border="0">
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Full--Stack-AI_Products-1a1a2e?style=for-the-badge&labelColor=0d1117" />
+<br/><sub>End-to-end builds</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Real-Deployment-1a1a2e?style=for-the-badge&labelColor=0d1117" />
+<br/><sub>Live URLs, not localhost</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Student-Budget-1a1a2e?style=for-the-badge&labelColor=0d1117" />
+<br/><sub>Free & open-source first</sub>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/Industry-Pipelines-1a1a2e?style=for-the-badge&labelColor=0d1117" />
+<br/><sub>Production-grade architecture</sub>
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
 
 ---
 
-## 📫 Connect
+<br/>
 
-- **YouTube**: [@phasealpha29](https://youtube.com/@phaseaplha29)
-- **Instagram**: [@phasealpha_ai](https://instagram.com/phaseaplha_ai)
-- **Email**: sphasealpha@gmail.com
+<div align="center">
 
----
+### `> stack`
 
-## 🎯 Philosophy
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-> "The best way to learn AI isn't through tutorials.  
-> It's by building, breaking, fixing, and deploying real systems."
+<br/><br/>
 
-**Phase Alpha** is that path.
+⭐ **Star repos you find useful** &nbsp;·&nbsp; 🔔 **Watch for new projects** &nbsp;·&nbsp; 💬 **Questions? Open an issue**
 
----
+<br/>
 
-⭐ **Star repos you find useful**  
-🔔 **Watch for updates**  
-💬 **Questions? Open an issue**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:0f0f0f&height=80&section=footer" width="100%"/>
+
+</div>
