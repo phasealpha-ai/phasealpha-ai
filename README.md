@@ -15,13 +15,15 @@
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=6E6E8A&center=true&vCenter=true&width=600&lines=Building+real+AI+products.+Student+budget.;From+zero+to+deployed.+Every+time.;No+GPU.+No+money.+No+excuses.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=6E6E8A&center=true&vCenter=true&width=600&lines=AI+from+first+principles+to+production.;Real+projects.+Deployed.+Open+source.;The+signal+in+the+noise.)](https://git.io/typing-svg)
 
 <br/>
 
 [![YouTube](https://img.shields.io/badge/YouTube-@phasealpha29-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://youtube.com/@phasealpha29)
 &nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-@phasealpha__ai-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/phasealpha_ai)
+&nbsp;
+[![Twitter](https://img.shields.io/badge/Twitter-@phasealphaai29-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/phasealphaai29)
 &nbsp;
 [![Email](https://img.shields.io/badge/Email-sphasealpha@gmail.com-0078D4?style=flat-square&logo=gmail&logoColor=white)](mailto:sphasealpha@gmail.com)
 
@@ -39,13 +41,13 @@
 
 ### `> who_is_phase_alpha`
 
-I'm a student doing my Masters in AI — building real, deployed AI products with no GPU and a tight budget.
+Phase Alpha is where AI stops being theory and starts being products.
 
-Most tutorials stop right before the hard part. Deployment breaks. APIs timeout. Docker fails. Costs spiral.
+Most tutorials stop right before the hard part. Deployment breaks. APIs timeout. Docker fails. Production looks nothing like localhost.
 
 **Phase Alpha is what comes after the tutorial.**
 
-Every project here goes from idea → code → production. Full stack. Live URL. Open source.
+Every project here goes from idea → code → deployed production. Full stack. Live URL. Open source. Always.
 
 </td>
 <td width="8%"></td>
@@ -55,6 +57,7 @@ Every project here goes from idea → code → production. Full stack. Live URL.
 
 ```python
 while learning:
+    understand_deeply()
     build_something_real()
     deploy_it()
     document_everything()
@@ -62,9 +65,9 @@ while learning:
     # repeat
 ```
 
-> *"The gap between learning AI*
-> *and doing AI is massive.*
-> *This channel closes that gap."*
+> *"The gap between understanding AI*
+> *and shipping AI is massive.*
+> *This is where we close it."*
 
 </td>
 </tr>
@@ -85,20 +88,20 @@ while learning:
 <table border="0">
 <tr>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Full--Stack-AI_Products-1a1a2e?style=for-the-badge&labelColor=0d1117" />
-<br/><sub>End-to-end builds</sub>
+<img src="https://img.shields.io/badge/From-First_Principles-1a1a2e?style=for-the-badge&labelColor=0d1117" />
+<br/><sub>Scratch to advanced</sub>
 </td>
 <td align="center" width="25%">
 <img src="https://img.shields.io/badge/Real-Deployment-1a1a2e?style=for-the-badge&labelColor=0d1117" />
 <br/><sub>Live URLs, not localhost</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Student-Budget-1a1a2e?style=for-the-badge&labelColor=0d1117" />
-<br/><sub>Free & open-source first</sub>
+<img src="https://img.shields.io/badge/Fully-Open_Source-1a1a2e?style=for-the-badge&labelColor=0d1117" />
+<br/><sub>Every line of code</sub>
 </td>
 <td align="center" width="25%">
-<img src="https://img.shields.io/badge/Industry-Pipelines-1a1a2e?style=for-the-badge&labelColor=0d1117" />
-<br/><sub>Production-grade architecture</sub>
+<img src="https://img.shields.io/badge/Production-Grade-1a1a2e?style=for-the-badge&labelColor=0d1117" />
+<br/><sub>Industry pipelines</sub>
 </td>
 </tr>
 </table>
@@ -127,7 +130,7 @@ while learning:
 
 <br/><br/>
 
-⭐ **Star repos you find useful** &nbsp;·&nbsp; 🔔 **Watch for new projects** &nbsp;·&nbsp; 💬 **Questions? Open an issue**
+⭐ **Star repos you find useful** &nbsp;·&nbsp; 🔔 **Watch for new projects every Saturday** &nbsp;·&nbsp; 💬 **Questions? Open an issue**
 
 <br/>
 
